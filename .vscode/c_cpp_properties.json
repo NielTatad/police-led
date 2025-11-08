@@ -8,7 +8,6 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/Neil Tatad/Documents/PlatformIO/Projects/police-led/include",
                 "C:/Users/Neil Tatad/Documents/PlatformIO/Projects/police-led/src",
                 "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/variants/standard",
@@ -22,7 +21,6 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/Neil Tatad/Documents/PlatformIO/Projects/police-led/include",
                     "C:/Users/Neil Tatad/Documents/PlatformIO/Projects/police-led/src",
                     "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/variants/standard",
