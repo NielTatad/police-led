@@ -9,12 +9,13 @@
             "name": "PlatformIO",
             "includePath": [
                 "C:/Users/Neil Tatad/Documents/PlatformIO/Projects/police-led/src",
+                "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/Neil Tatad/Documents/PlatformIO/Projects/police-led/.pio/libdeps/uno/Adafruit NeoPixel",
                 "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/variants/standard",
                 "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                 "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
-                "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
                 "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                 ""
             ],
@@ -22,12 +23,13 @@
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
                     "C:/Users/Neil Tatad/Documents/PlatformIO/Projects/police-led/src",
+                    "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/Neil Tatad/Documents/PlatformIO/Projects/police-led/.pio/libdeps/uno/Adafruit NeoPixel",
                     "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/variants/standard",
                     "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                     "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
-                    "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
                     "C:/Users/Neil Tatad/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     ""
                 ]
